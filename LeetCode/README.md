@@ -5,6 +5,7 @@
 - [x] 1. Two Sum (2022.2.9)
 - [x] 9. Palindrome Number (2022.2.23)
 - [x] 14. Longest Common Prefix (2022.2.24)
+- [x] 13. Roman to Integer (2022.2.25)
 - [x] 24. Swap Nodes in Pairs (2022.2.16)
 - [x] 28. Implement strStr(2022.2.21)
 - [x] 35. Search Insert Position (2022.2.22)
