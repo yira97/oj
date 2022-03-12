@@ -1,7 +1,10 @@
 const maxDepthImpl = (root, depth = 1) => {
-    if (!root || (!root.left && !root.right)) return depth;
-    return Math.max(maxDepthImpl(root.left, depth + 1), maxDepthImpl(root.right, depth + 1));
-}
+  if (!root || (!root.left && !root.right)) return depth;
+  return Math.max(
+    maxDepthImpl(root.left, depth + 1),
+    maxDepthImpl(root.right, depth + 1)
+  );
+};
 
 /**
  * Definition for a binary tree node.
@@ -15,7 +18,7 @@ const maxDepthImpl = (root, depth = 1) => {
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function(root) {
-    if (!root) return 0;
-    return maxDepthImpl(root)
+var maxDepth = function (root) {
+  if (!root) return 0;
+  return maxDepthImpl(root);
 };

@@ -9,28 +9,28 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
- var swapPairs = function(head) {
-    let entry = head;
-    let before = null;
-    
-    if (entry && entry.next) {
-        head = head.next;
-    }
-    
-    while (entry && entry.next) {
-        const first = entry;
-        const second = entry.next;
-        const neibor = second.next;
+var swapPairs = function (head) {
+  let entry = head;
+  let before = null;
 
-        first.next = neibor;
-        second.next = first;
-        entry = second;
-        if (before) {
-            before.next = entry;
-        }
-        before = entry.next;        
-        entry = before.next;
+  if (entry && entry.next) {
+    head = head.next;
+  }
+
+  while (entry && entry.next) {
+    const first = entry;
+    const second = entry.next;
+    const neibor = second.next;
+
+    first.next = neibor;
+    second.next = first;
+    entry = second;
+    if (before) {
+      before.next = entry;
     }
-    
-    return head;
+    before = entry.next;
+    entry = before.next;
+  }
+
+  return head;
 };
