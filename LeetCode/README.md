@@ -32,6 +32,8 @@
 - [x] 111. Minimum Depth of Binary Tree (2022.3.13)
 - [x] 112. Path Sum (2022.3.14)
 - [x] 118. Pascal's Triangle (2022.3.15)
+- [x] 119. Pascal's Triangle II (2022.3.16)
+- [x] 121. Best Time to Buy and Sell Stock (2022.3.17)
 - [x] 150. Evaluate Reverse Polish Notation (2022.2.10)
 - [x] 169. Majority Element (2022.2.20)
 - [x] 455. Assign Cookies (2022.2.18)
