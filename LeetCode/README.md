@@ -51,6 +51,8 @@
 - [x] 183. Customers Who Never Order (2022.3.30)
 - [x] 190. Reverse Bits (2022.3.31)
 - [x] 191. Number of 1 Bits (2022.4.1)
+- [x] 197. Rising Temperature (2022.4.2)
+- [x] 202. Happy Number (2022.4.3)
 - [x] 455.  Assign Cookies (2022.2.18)
 - [x] 576.  Out of Boundary Paths (2022.2.11)
 - [x] 1260. Shift 2D Grid (2022.2.19)
