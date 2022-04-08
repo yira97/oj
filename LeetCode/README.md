@@ -56,6 +56,8 @@
 - [x] 203. Remove Linked List Elements (2022.4.4)
 - [x] 205. Isomorphic Strings (2022.4.5)
 - [x] 206. Reverse Linked List (2022.4.6)
+- [x] 217. Contains Duplicate (2022.4.7)
+- [x] 219. Contains Duplicate II (2022.4.8)
 - [x] 455.  Assign Cookies (2022.2.18)
 - [x] 576.  Out of Boundary Paths (2022.2.11)
 - [x] 1260. Shift 2D Grid (2022.2.19)
