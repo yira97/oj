@@ -59,6 +59,8 @@
 - [x] 217. Contains Duplicate (2022.4.7)
 - [x] 219. Contains Duplicate II (2022.4.8)
 - [x] 225. Implement Stack using Queues (2022.4.9)
+- [x] 226. Invert Binary Tree (2022.4.10)
+- [x] 231. Power of Two (2022.4.11)
 - [x] 455.  Assign Cookies (2022.2.18)
 - [x] 576.  Out of Boundary Paths (2022.2.11)
 - [x] 1260. Shift 2D Grid (2022.2.19)
