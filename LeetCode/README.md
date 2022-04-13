@@ -2,67 +2,67 @@
 
 ## Finished
 
-- [x] 1.  Two Sum (2022.2.9)
-- [x] 9.  Palindrome Number (2022.2.23)
-- [x] 14. Longest Common Prefix (2022.2.24)
-- [x] 13. Roman to Integer (2022.2.25)
-- [x] 20. Valid Parentheses (2022.2.26)
-- [x] 21. Merge Two Sorted Lists (2022.2.27)
-- [x] 24. Swap Nodes in Pairs (2022.2.16)
-- [x] 26. Remove Duplicates from Sorted Array (2022.3.8)
-- [x] 27. Remove Element (2022.3.7)
-- [x] 28. Implement strStr(2022.2.21)
-- [x] 35. Search Insert Position (2022.2.22)
-- [x] 39. Combination Sum (2022.2.17)
-- [x] 53. Maximum Subarray (2022.2.28)
-- [x] 58. Length of Last Word (2022.3.1)
-- [x] 66. Plus One (2022.3.2)
-- [x] 67. Add Binary (2022.3.3)
-- [x] 70. Climbing Stairs (2022.3.4)
-- [x] 78. Subsets (2022.2.14)
-- [x] 83. Remove Duplicates from Sorted List (2022.3.5)
-- [x] 88. Merge Sorted Array (2022.3.6)
-- [x] 94. Binary Tree Inorder Traversal (2022.3.9)
-- [x] 96. Unique Binary Search Trees (2022.2.13)
-- [x] 100.  Same Tree (2022.2.12)
-- [x] 101.  Symmetric Tree (2022.3.10)
-- [x] 104.  Maximum Depth of Binary Tree (2022.2.15)
-- [x] 108.  Convert Sorted Array to Binary Search Tree (2022.3.11)
-- [x] 110.  Balanced Binary Tree (2022.3.12)
-- [x] 111.  Minimum Depth of Binary Tree (2022.3.13)
-- [x] 112.  Path Sum (2022.3.14)
-- [x] 118.  Pascal's Triangle (2022.3.15)
-- [x] 119.  Pascal's Triangle II (2022.3.16)
-- [x] 121.  Best Time to Buy and Sell Stock (2022.3.17)
-- [x] 125.  Valid Palindrome (2022.3.19)
-- [x] 136.  Single Number (2022.3.18)
-- [x] 141.  Linked List Cycle (2022.3.20)
-- [x] 144.  Binary Tree Preorder Traversal (2022.3.21)
-- [x] 145.  Binary Tree Postorder Traversal (2022.3.22)
-- [x] 150.  Evaluate Reverse Polish Notation (2022.2.10)
-- [x] 155.  Min Stack (2022.3.23)
-- [x] 160.  Intersection of Two Linked Lists (2022.3.24)
-- [x] 168.  Excel Sheet Column Title (2022.3.25)
-- [x] 169.  Majority Element (2022.2.20)
-- [x] 171. Excel Sheet Column Number (2022.3.26)
-- [x] 175. Combine Two Tables (2022.3.27)
-- [x] 181. Employees Earning More Than Their Managers (2022.3.28)
-- [x] 182. Duplicate Emails (2022.3.29)
-- [x] 183. Customers Who Never Order (2022.3.30)
-- [x] 190. Reverse Bits (2022.3.31)
-- [x] 191. Number of 1 Bits (2022.4.1)
-- [x] 197. Rising Temperature (2022.4.2)
-- [x] 202. Happy Number (2022.4.3)
-- [x] 203. Remove Linked List Elements (2022.4.4)
-- [x] 205. Isomorphic Strings (2022.4.5)
-- [x] 206. Reverse Linked List (2022.4.6)
-- [x] 217. Contains Duplicate (2022.4.7)
-- [x] 219. Contains Duplicate II (2022.4.8)
-- [x] 225. Implement Stack using Queues (2022.4.9)
-- [x] 226. Invert Binary Tree (2022.4.10)
-- [x] 228. Summary Ranges (2022.4.12)
-- [x] 231. Power of Two (2022.4.11)
-- [x] 242. Valid Anagram (2022.4.13)
-- [x] 455.  Assign Cookies (2022.2.18)
-- [x] 576.  Out of Boundary Paths (2022.2.11)
-- [x] 1260. Shift 2D Grid (2022.2.19)
+- [x] 1. Two Sum
+- [x] 9. Palindrome Number
+- [x] 14. Longest Common Prefix
+- [x] 13. Roman to Integer
+- [x] 20. Valid Parentheses
+- [x] 21. Merge Two Sorted Lists
+- [x] 24. Swap Nodes in Pairs
+- [x] 26. Remove Duplicates from Sorted Array
+- [x] 27. Remove Element
+- [x] 28. Implement strStr
+- [x] 35. Search Insert Position
+- [x] 39. Combination Sum
+- [x] 53. Maximum Subarray
+- [x] 58. Length of Last Word
+- [x] 66. Plus One
+- [x] 67. Add Binary
+- [x] 70. Climbing Stairs
+- [x] 78. Subsets
+- [x] 83. Remove Duplicates from Sorted List
+- [x] 88. Merge Sorted Array
+- [x] 94. Binary Tree Inorder Traversal
+- [x] 96. Unique Binary Search Trees
+- [x] 100. Same Tree
+- [x] 101. Symmetric Tree
+- [x] 104. Maximum Depth of Binary Tree
+- [x] 108. Convert Sorted Array to Binary Search Tree
+- [x] 110. Balanced Binary Tree
+- [x] 111. Minimum Depth of Binary Tree
+- [x] 112. Path Sum
+- [x] 118. Pascal's Triangle
+- [x] 119. Pascal's Triangle II
+- [x] 121. Best Time to Buy and Sell Stock
+- [x] 125. Valid Palindrome
+- [x] 136. Single Number
+- [x] 141. Linked List Cycle
+- [x] 144. Binary Tree Preorder Traversal
+- [x] 145. Binary Tree Postorder Traversal
+- [x] 150. Evaluate Reverse Polish Notation
+- [x] 155. Min Stack
+- [x] 160. Intersection of Two Linked Lists
+- [x] 168. Excel Sheet Column Title
+- [x] 169. Majority Element
+- [x] 171. Excel Sheet Column Number
+- [x] 175. Combine Two Tables
+- [x] 181. Employees Earning More Than Their Managers
+- [x] 182. Duplicate Emails
+- [x] 183. Customers Who Never Order
+- [x] 190. Reverse Bits
+- [x] 191. Number of 1 Bits
+- [x] 197. Rising Temperature
+- [x] 202. Happy Number
+- [x] 203. Remove Linked List Elements
+- [x] 205. Isomorphic Strings
+- [x] 206. Reverse Linked List
+- [x] 217. Contains Duplicate
+- [x] 219. Contains Duplicate II
+- [x] 225. Implement Stack using Queues
+- [x] 226. Invert Binary Tree
+- [x] 228. Summary Ranges
+- [x] 231. Power of Two
+- [x] 242. Valid Anagram
+- [x] 455. Assign Cookies
+- [x] 576. Out of Boundary Paths
+- [x] 1260. Shift 2D Grid
