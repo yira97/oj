@@ -62,6 +62,7 @@
 - [x] 226. Invert Binary Tree
 - [x] 228. Summary Ranges
 - [x] 231. Power of Two
+- [x] 232. Implement Queue using Stacks
 - [x] 242. Valid Anagram
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
