@@ -63,6 +63,8 @@
 - [x] 228. Summary Ranges
 - [x] 231. Power of Two
 - [x] 232. Implement Queue using Stacks
+- [x] 234. Palindrome Linked List
+- [x] 237. Delete Node in a Linked List
 - [x] 242. Valid Anagram
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
