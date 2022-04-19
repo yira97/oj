@@ -69,6 +69,7 @@
 - [x] 242. Valid Anagram
 - [x] 257. Binary Tree Paths
 - [x] 258. Add Digits
+- [x] 263. Ugly Number
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
 - [x] 1260. Shift 2D Grid
