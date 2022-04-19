@@ -64,8 +64,11 @@
 - [x] 231. Power of Two
 - [x] 232. Implement Queue using Stacks
 - [x] 234. Palindrome Linked List
+- [x] 235. Lowest Common Ancestor of a Binary Search Tree
 - [x] 237. Delete Node in a Linked List
 - [x] 242. Valid Anagram
+- [x] 257. Binary Tree Paths
+- [x] 258. Add Digits
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
 - [x] 1260. Shift 2D Grid
