@@ -71,6 +71,7 @@
 - [x] 258. Add Digits
 - [x] 263. Ugly Number
 - [x] 268. Missing Number
+- [x] 278. First Bad Version
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
 - [x] 1260. Shift 2D Grid
