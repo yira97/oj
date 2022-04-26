@@ -75,6 +75,7 @@
 - [x] 283. Move Zeroes
 - [x] 290. Word Pattern
 - [x] 292. Nim Game
+- [x] 326. Power of Three
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
 - [x] 1260. Shift 2D Grid
