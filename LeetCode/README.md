@@ -73,6 +73,7 @@
 - [x] 268. Missing Number
 - [x] 278. First Bad Version
 - [x] 283. Move Zeroes
+- [x] 290. Word Pattern
 - [x] 455. Assign Cookies
 - [x] 576. Out of Boundary Paths
 - [x] 1260. Shift 2D Grid
